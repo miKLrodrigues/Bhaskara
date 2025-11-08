@@ -51,4 +51,3 @@ else
 
 Console.ResetColor();
 
-Console.Clear();
